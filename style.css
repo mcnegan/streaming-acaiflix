@@ -43,6 +43,7 @@ body {
 
 .menu-list-item {
   margin-right: 30px;
+  cursor: pointer;
 }
 
 .menu-list-item.active {
@@ -143,6 +144,7 @@ body {
   border: none;
   outline: none;
   font-weight: bold;
+  cursor: pointer;
 }
 
 .movie-list-container {
